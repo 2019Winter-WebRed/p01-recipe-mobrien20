@@ -1,0 +1,17 @@
+/*
+* Meaghan O'Brien 
+* 25 February 2019
+* Recipe 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+  background-color: lightblue;
+}
